@@ -1,4 +1,4 @@
-# Non-uniform B-spline Flows
+# [AAAI 2023 Oral] Non-uniform B-spline Flows
 
 
 ## Install
