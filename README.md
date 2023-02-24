@@ -1,5 +1,5 @@
 # [AAAI 2023 Oral] Non-uniform B-spline Flows
-
+The final version will be uploaded in March.
 
 ## Install
 -  Download data (follow instructions in ./bgmol/bgmol/data/README.md).
