@@ -1,6 +1,6 @@
 # [AAAI 2023 Oral] Non-uniform B-spline Flows
 The final version will be uploaded soon.
-Our paper (proceeding) has not been published yet, but most of the codes in this repository are based on the implementation of Smooth normalizing flows (Köhler, Krämer, and Noé 2021, https://proceedings.neurips.cc/paper/2021/hash/167434fa6219316417cd4160c0c5e7d2-Abstract.html).
+Our paper (proceeding) has not been published yet, but most of the codes in this repository are based on the implementation of Smooth normalizing flows (Köhler, Krämer, and Noé, in NeurIPS 2021).
 If you're interested in the Non-uniform B-spline flow implementation, you can find it in /bgflow/bgflow/nn/flow/transformer/bspline.py .
 
 ## Install
